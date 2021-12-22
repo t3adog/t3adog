@@ -4,8 +4,17 @@
 
 I am teamlead on small project in popular Russia telecom company.
 
-Main Skills: java / python3 / linux
+Main Skills:
+- <img src='https://keptelr.github.io/icons/java.svg' alt='Java' height='20'> Java 
+- <img src='https://keptelr.github.io/icons/springio.svg' alt='Spring' height='20'> Spring 
+- <img src='https://keptelr.github.io/icons/mongodb.svg' alt='MongoDB' height='20'> MongoDB
+- <img src='https://keptelr.github.io/icons/kafka.svg' alt='Kafka' height='20'> Kafka
+- <img src='https://keptelr.github.io/icons/docker.svg' alt='Docker' height='20'> Docker 
+- <img src='https://keptelr.github.io/icons/elastic.svg' alt='Elasticsearch' height='20'><img src='https://keptelr.github.io/icons/logstash.svg' alt='Logstash' height='20'><img src='https://keptelr.github.io/icons/kibana.svg' alt='Kibana' height='20'> ELK
+- <img src='https://keptelr.github.io/icons/python.svg' alt='Python' height='20'> Python3
+- <img src='https://keptelr.github.io/icons/linux.svg' alt='Linux' height='20'> Linux
 
+About Me:
 - 🌱 I’m currently learning: Kotlin
 - 🤔 I'm intresting for Go
 - 👯 I’m looking to collaborate on interesting open source projects 
@@ -18,7 +27,7 @@ In my GitHub profile you can find next types of repo:
 - 🎲 Other repos. Somthing else, where I contributed anything to external repos (nothing fanycy of course)
 - 🤔 Profile repos. Repos for my profile on GitHub.
 
-
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/keptelr)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg' alt='dev' height='40'>](https://dev.to/keptelr)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/keptelr/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/keptelr)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/telegram.svg' alt='telegram' height='40'>](http://t.me/keptelr)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/habr.svg' alt='habr' height='40'>](https://habr.com/ru/users/keptelr/)  
+My socials: <br>
+[<img src='https://keptelr.github.io/icons/github.svg' alt='github' height='30'>](https://github.com/keptelr)  [<img src='https://keptelr.github.io/icons/devto.svg' alt='dev' height='30'>](https://dev.to/keptelr)  [<img src='https://keptelr.github.io/icons/instagram.svg' alt='instagram' height='30'>](https://www.instagram.com/keptelr/)  [<img src='https://keptelr.github.io/icons/twitter.svg' alt='twitter' height='30'>](https://twitter.com/keptelr) [<img src='https://keptelr.github.io/icons/telegram.svg' alt='telegram' height='30'>](http://t.me/keptelr)  [<img src='https://keptelr.github.io/icons/habr.png' alt='habr' height='30'>](https://habr.com/ru/users/keptelr/)  
 
 ![Profile views](https://gpvc.arturio.dev/keptelr)  

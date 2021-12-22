@@ -22,7 +22,7 @@ I am teamlead on small project in popular Russia telecom company.
 - I'm intresting for:
   - <img src='https://keptelr.github.io/icons/go.svg' alt='Go' height='20'> Golang
   - <img src='https://keptelr.github.io/icons/typescript.svg' alt='Typescript' height='20'> <img src='https://keptelr.github.io/icons/angular.svg' alt='Angular' height='20'> <img src='https://keptelr.github.io/icons/react.svg' alt='ReactJs' height='20'> Frontend Development
-- I'm love technologies
+- I'm in love with technologies
 - My work is my life
 - All my pet projects is bullshit, because all my powers I spell to my eployer projects
 - I think, soft skills is more important than hard skills

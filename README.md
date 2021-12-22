@@ -6,7 +6,8 @@ I am teamlead on small project in popular Russia telecom company.
 
 Main Skills: java / python3 / linux
 
-- 🌱 I’m currently learning: kotlin, go 
+- 🌱 I’m currently learning: kotlin
+- 🤔 I'm intresting for Go
 - 👯 I’m looking to collaborate on interesting open source projects 
 
 

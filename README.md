@@ -1,5 +1,5 @@
 ### Hi there 👋, my name is Petr
-#### I am Java Developer
+#### I am backend developer
 ![I am backend developer](https://keptelr.github.io/img/logo.png)
 
 I am teamlead on small project in popular Russia telecom company.

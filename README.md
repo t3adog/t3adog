@@ -19,16 +19,16 @@ I am teamlead on small project in popular Russia telecom company.
 
 **About Me:**
 - I’m currently learning: <img src='https://keptelr.github.io/icons/kotlin.svg' alt='Kotlin' height='20'> Kotlin
-- I'm intresting for:
+- I'm intrested in:
   - <img src='https://keptelr.github.io/icons/go.svg' alt='Go' height='20'> Golang
   - <img src='https://keptelr.github.io/icons/typescript.svg' alt='Typescript' height='20'> <img src='https://keptelr.github.io/icons/angular.svg' alt='Angular' height='20'> <img src='https://keptelr.github.io/icons/react.svg' alt='ReactJs' height='20'> Frontend Development
 - I'm in love with technologies
 - My work is my life
-- All my pet projects is bullshit, because all my powers I spell to my eployer projects
-- I think, soft skills is more important than hard skills
+- All my pet projects are bullshit, because all my powers I spend to my eployer projects
+- I think, soft skills are more important than hard skills
 
-**n my GitHub profile you can find next types of repo:**
-- 🎥 **Demo repos, where you can see example my code for production projects. You can see, how I write my code for my employer. What kind of arch I use, my codestyle, etc.**
+**In my GitHub profile you can find next types of repo:**
+- 🎥 **Demo repos, where you can see example my code for production projects. Here, you can see, how I write my code for my employer. What kind of arch I use, my codestyle, etc.**
 - 🎓 Study repos, where I try learn anything. Nothing fancy.  
 - 💩 Kludge repos, where I fix anything for my cases. It's bad, but it's works for me.
 - 🎲 Other repos. Somthing else, where I contributed anything to external repos (nothing fanycy of course)

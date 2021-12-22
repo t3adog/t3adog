@@ -2,11 +2,11 @@
 #### I am Java Developer
 ![I am Java Developer](https://keptelr.github.io/img/logo.png)
 
-I am teamled on small project in popular Russia telecom company.
+I am teamlead on small project in popular Russia telecom company.
 
-Skills: java / python3 / linux
+Main Skills: java / python3 / linux
 
-- 🌱 I’m currently learning kotlin, go 
+- 🌱 I’m currently learning: kotlin, go 
 - 👯 I’m looking to collaborate on interesting open source projects 
 
 

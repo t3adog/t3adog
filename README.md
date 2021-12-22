@@ -14,7 +14,7 @@ Main Skills:
 - <img src='https://keptelr.github.io/icons/nginx.svg' alt='Nginx' height='20'> Nginx
 - <img src='https://keptelr.github.io/icons/gitlab.svg' alt='Gitlab' height='20'><img src='https://keptelr.github.io/icons/jenkins.svg' alt='Jenkins' height='20'> Ci/Cd
 - <img src='https://keptelr.github.io/icons/python.svg' alt='Python' height='20'> Python3
-- <img src='https://keptelr.github.io/icons/linux.svg' alt='Linux' height='20'> Linux (<img src='https://keptelr.github.io/icons/ubuntu.svg' alt='Ubuntu' height='20'>❤️)
+- <img src='https://keptelr.github.io/icons/linux.svg' alt='Linux' height='20'> Linux (<img src='https://keptelr.github.io/icons/ubuntu.svg' alt='Ubuntu' height='20'> == ❤️)
 
 About Me:
 - I’m currently learning: <img src='https://keptelr.github.io/icons/kotlin.svg' alt='Kotlin' height='20'> Kotlin

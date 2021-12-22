@@ -22,7 +22,9 @@ About Me:
 - I'm intresting for:
   - <img src='https://keptelr.github.io/icons/go.svg' alt='Go' height='20'> Golang
   - <img src='https://keptelr.github.io/icons/typescript.svg' alt='Typescript' height='20'> <img src='https://keptelr.github.io/icons/angular.svg' alt='Angular' height='20'> <img src='https://keptelr.github.io/icons/react.svg' alt='ReactJs' height='20'> Frontend Development
-- 👯 I’m looking to collaborate on interesting open source projects 
+- I'm love technologies
+- My work is my life
+- I think, soft skills is more important than hard skills
 
 
 In my GitHub profile you can find next types of repo:

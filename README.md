@@ -13,7 +13,7 @@ Main Skills: java / python3 / linux
 
 In my GitHub profile you can find next types of repo:
 - 🎓 Study repos, where I try learn anything. Nothing fancy.  
-- ⛑ Kludge repos, where I fix anything for my cases. It's bad, but it's works for me.
+- 💩 Kludge repos, where I fix anything for my cases. It's bad, but it's works for me.
 - 🎥 Demo repos, where you can see example my code for production projects. You can see, how I write my code for my employer. What kind of arch I use, my codestyle, etc.
 - 🎲 Other repos. Somthing else, where I contributed anything to external repos (nothing fanycy of course)
 - 🤔 Profile repos. Repos for my profile on GitHub.

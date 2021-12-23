@@ -4,7 +4,7 @@
 
 I am teamlead on small project in popular Russia telecom company.
 
-**Main Skills:**
+**My Main Skills:**
 - <img src='https://keptelr.github.io/icons/java.svg' alt='Java' height='20'> Java 
 - <img src='https://keptelr.github.io/icons/springio.svg' alt='Spring' height='20'> Spring 
 - <img src='https://keptelr.github.io/icons/mongodb.svg' alt='MongoDB' height='20'> MongoDB

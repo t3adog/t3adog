@@ -26,13 +26,13 @@ I am teamlead on small project in popular Russia telecom company.
 - My work is my life
 - All my pet projects are bullshit, because all my powers I spend to my eployer projects
 - I think, soft skills are more important than hard skills
-- I'm strong: Can support four night release per week, with full day load after that (per month of course)
+- I'm hardy: Can support four night release per week, with full day load after that (per month of course)
 
 **In my GitHub profile you can find next types of repo:**
-- 🎥 **Demo repos, where you can see example my code for production projects. Here, you can see, how I write my code for my employer. What kind of arch I use, my codestyle, etc.**
+- 🎥 **Demo repos, where you can see examples of my code for production projects. Here, you can see, how I write my code for my employer. What kind of arch I use, my codestyle, etc.**
 - 🎓 Study repos, where I try learn anything. Nothing fancy.  
-- 💩 Kludge repos, where I fix anything for my cases. It's bad, but it's works for me.
-- 🎲 Other repos. Somthing else, where I contributed anything to external repos (nothing fancy of course)
+- 💩 Kludge repos, where I fix anything for my cases. It's bad, but it works for me.
+- 🎲 Other repos. Something else, where I contributed anything to external repos (nothing fancy of course)
 - 🤔 Profile repos. Repos for my profile on GitHub.
 
 **My socials:** <br>

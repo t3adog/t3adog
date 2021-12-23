@@ -31,7 +31,7 @@ I am teamlead on small project in popular Russia telecom company.
 - 🎥 **Demo repos, where you can see example my code for production projects. Here, you can see, how I write my code for my employer. What kind of arch I use, my codestyle, etc.**
 - 🎓 Study repos, where I try learn anything. Nothing fancy.  
 - 💩 Kludge repos, where I fix anything for my cases. It's bad, but it's works for me.
-- 🎲 Other repos. Somthing else, where I contributed anything to external repos (nothing fanycy of course)
+- 🎲 Other repos. Somthing else, where I contributed anything to external repos (nothing fancy of course)
 - 🤔 Profile repos. Repos for my profile on GitHub.
 
 **My socials:** <br>

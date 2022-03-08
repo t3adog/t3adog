@@ -18,7 +18,6 @@ I am teamlead on small project in popular Russia telecom company.
 - <img src='https://keptelr.github.io/icons/linux.svg' alt='Linux' height='15'> Linux (<img src='https://keptelr.github.io/icons/ubuntu.svg' alt='Ubuntu' height='20'> == ❤️)
 
 **About Me:**
-- I’m currently learning: <img src='https://keptelr.github.io/icons/kotlin.svg' alt='Kotlin' height='20'> Kotlin
 - I'm intrested in:
   - <img src='https://keptelr.github.io/icons/go.svg' alt='Go' height='20'> Golang
   - <img src='https://keptelr.github.io/icons/typescript.svg' alt='Typescript' height='20'> <img src='https://keptelr.github.io/icons/angular.svg' alt='Angular' height='20'> <img src='https://keptelr.github.io/icons/react.svg' alt='ReactJs' height='20'> Frontend Development

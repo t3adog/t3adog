@@ -27,13 +27,6 @@ I am teamlead on small project in popular Russia telecom company.
 - I think, soft skills are more important than hard skills
 - I'm hardy: Can support four night release per week, with full day load after that (per month of course)
 
-**In my GitHub profile you can find next types of repo:**
-- 🎥 **Demo repos, where you can see examples of my code for production projects. Here, you can see, how I write my code for my employer. What kind of arch I use, my codestyle, etc.**
-- 🎓 Study repos, where I try to learn something. Nothing fancy.  
-- 💩 Kludge repos, where I fix anything for my cases. It's bad, but it works for me.
-- 🎲 Other repos. Something else, where I contributed anything to external repos (nothing fancy of course)
-- 🤔 Profile repos. Repos for my profile on GitHub.
-
 **My socials:** <br>
 [<img src='https://keptelr.github.io/icons/github.svg' alt='github' height='30'>](https://github.com/keptelr)  [<img src='https://keptelr.github.io/icons/devto.svg' alt='dev' height='30'>](https://dev.to/keptelr) [<img src='https://keptelr.github.io/icons/telegram.svg' alt='telegram' height='30'>](http://t.me/keptelr) [<img src='https://keptelr.github.io/icons/habr.png' alt='habr' height='30'>](https://habr.com/ru/users/keptelr/) [<img src='https://keptelr.github.io/icons/linkedin.svg' alt='habr' height='30'>](https://www.linkedin.com/in/petrbelyakov/)
 

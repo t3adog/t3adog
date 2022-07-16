@@ -20,7 +20,6 @@ I am teamlead on small project in popular Russia telecom company.
 **About Me:**
 - I'm intrested in:
   - <img src='https://keptelr.github.io/icons/go.svg' alt='Go' height='20'> Golang
-  - <img src='https://keptelr.github.io/icons/typescript.svg' alt='Typescript' height='20'> <img src='https://keptelr.github.io/icons/angular.svg' alt='Angular' height='20'> <img src='https://keptelr.github.io/icons/react.svg' alt='ReactJs' height='20'> Frontend Development
 - I'm in love with technologies
 - My work is my life
 - All my pet projects are bullshit, because all my powers I spend to my eployer projects

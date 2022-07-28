@@ -2,7 +2,7 @@
 #### I am backend developer
 ![I am backend developer](https://keptelr.github.io/img/logo6.png)
 
-I am teamlead on small project in popular Russia telecom company.
+I am system architect on small project in popular Russia telecom company.
 
 **My Main Skills:**
 - <img src='https://keptelr.github.io/icons/java.svg' alt='Java' height='20'> Java 

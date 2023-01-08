@@ -28,5 +28,5 @@ I am system architect on small project in popular Russia telecom company.
 - I'm hardy: Can support four night release per week, with full day load after that (per month of course)
 
 **My socials:** <br>
-[<img src='https://keptelr.github.io/icons/github.svg' alt='github' height='30'>](https://github.com/keptelr)  [<img src='https://keptelr.github.io/icons/devto.svg' alt='dev' height='30'>](https://dev.to/keptelr) [<img src='https://keptelr.github.io/icons/telegram.svg' alt='telegram' height='30'>](http://t.me/keptelr) [<img src='https://keptelr.github.io/icons/habr.png' alt='habr' height='30'>](https://habr.com/ru/users/keptelr/) [<img src='https://keptelr.github.io/icons/linkedin.svg' alt='habr' height='30'>](https://www.linkedin.com/in/petrbelyakov/)
+[<img src='https://keptelr.github.io/icons/github.svg' alt='github' height='30'>](https://github.com/keptelr)  [<img src='https://keptelr.github.io/icons/devto.svg' alt='dev' height='30'>](https://dev.to/keptelr) [<img src='https://keptelr.github.io/icons/telegram.svg' alt='telegram' height='30'>](http://t.me/kptlr) [<img src='https://keptelr.github.io/icons/habr.png' alt='habr' height='30'>](https://habr.com/ru/users/keptelr/) [<img src='https://keptelr.github.io/icons/linkedin.svg' alt='habr' height='30'>](https://www.linkedin.com/in/petrbelyakov/)
 

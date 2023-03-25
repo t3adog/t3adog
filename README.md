@@ -10,6 +10,7 @@ I am system architect on small project in popular Russia telecom company.
 - <img src='https://keptelr.github.io/icons/mongodb.svg' alt='MongoDB' height='20'> MongoDB
 - <img src='https://keptelr.github.io/icons/kafka.svg' alt='Kafka' height='20'> Kafka / <img src='https://keptelr.github.io/icons/rmq.svg' alt='rmq' height='20'> RabbitMQ
 - <img src='https://keptelr.github.io/icons/docker.svg' alt='Docker' height='20'> Docker 
+- <img src='https://keptelr.github.io/icons/kubernetes-icon.svg' alt='Kubernetes' height='20'> k8s
 - <img src='https://keptelr.github.io/icons/elastic.svg' alt='Elasticsearch' height='20'><img src='https://keptelr.github.io/icons/logstash.svg' alt='Logstash' height='20'><img src='https://keptelr.github.io/icons/kibana.svg' alt='Kibana' height='20'> ELK
 - <img src='https://keptelr.github.io/icons/nginx.svg' alt='Nginx' height='20'> Nginx
 - <img src='https://keptelr.github.io/icons/prometheusio.svg' alt='Prometheus' height='20'> Prometheus

@@ -21,7 +21,6 @@ I am system architect on small project in popular Russia telecom company.
 **About Me:**
 - I'm intrested in:
   - <img src='https://keptelr.github.io/icons/go.svg' alt='Go' height='20'> Golang
-  - <img src='https://keptelr.github.io/icons/kotlin.svg' alt='Kotlin' height='20'> Kotlin
 - I'm in love with technologies
 - My work is my life
 - All my pet projects are bullshit, because all my powers I spend to my eployer projects

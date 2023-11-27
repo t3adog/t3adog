@@ -1,7 +1,7 @@
 ### Hi there 👋, my name is Petr
 ![it's me](https://kptlr.github.io/img/logo6.png)
 
-I am system architect on small project in popular Russia telecom company.
+I am system architect in popular Russia telecom company.
 
 **My Main Skills:**
 - <img src='https://kptlr.github.io/icons/java.svg' alt='Java' height='20'> Java 

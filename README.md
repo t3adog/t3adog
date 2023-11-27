@@ -1,6 +1,6 @@
 ### Hi there 👋, my name is Petr
 #### I am backend developer
-![I am backend developer](https://kptlr.github.io/img/logo6.png)
+![it's me](https://kptlr.github.io/img/logo6.png)
 
 I am system architect on small project in popular Russia telecom company.
 

@@ -15,7 +15,7 @@ I am system architect in popular Russia telecom company.
 - <img src='https://kptlr.github.io/icons/prometheusio.svg' alt='Prometheus' height='20'> Prometheus
 - <img src='https://kptlr.github.io/icons/gitlab.svg' alt='Gitlab' height='20'> / <img src='https://kptlr.github.io/icons/jenkins.svg' alt='Jenkins' height='20'> DevOps
 - <img src='https://kptlr.github.io/icons/python.svg' alt='Python' height='20'> Python 3
-- <img src='https://kptlr.github.io/icons/linux.svg' alt='Linux' height='15'> Linux
+- <img src='https://kptlr.github.io/icons/linux.svg' alt='Linux' height='15'>❤️ Linux
 
 **About Me:**
 - I'm intrested in:

@@ -28,3 +28,4 @@ I am system architect in popular Russia telecom company.
 
 **My socials:** <br>
 [<img src='https://kptlr.github.io/icons/github.svg' alt='github' height='30'>](https://github.com/kptlr) [<img src='https://kptlr.github.io/icons/telegram.svg' alt='telegram' height='30'>](http://t.me/kptlr) [<img src='https://kptlr.github.io/icons/habr.png' alt='habr' height='30'>](https://habr.com/ru/users/keptelr/) [<img src='https://kptlr.github.io/icons/linkedin.svg' alt='habr' height='30'>](https://www.linkedin.com/in/petrbelyakov/)
+https://career.habr.com/kptlr

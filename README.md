@@ -19,7 +19,7 @@ I am system architect in popular Russia telecom company.
 
 **About Me:**
 - I'm intrested in:
-  - <img src='https://kptlr.github.io/icons/go.svg' alt='Go' height='20'> Golang
+  - <img src='https://kptlr.github.io/icons/go.svg' alt='Go' height='20'>
 - I'm in love with technologies
 - My work is my life
 - All my pet projects are bullshit, because all my powers I spend to my eployer projects

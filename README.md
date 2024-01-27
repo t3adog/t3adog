@@ -28,6 +28,7 @@ I know Java, little bit Python and Go. Like work with infrastructure and can do 
 
 I have experience managing a team:
 - Optimization of processes
+- Using Agile practies
 - Hiring (soft skills in priority!)
 - Coaching
 

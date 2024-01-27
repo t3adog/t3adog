@@ -24,7 +24,7 @@
 
 Proactive and maximally involved in the projects I participate in.
 
-I know Java, little bit Python and Go. Like work with infrastructure and can do DevOps-things.
+I know Java, little bit Python and Go. Like work with infrastructure and doing DevOps-things.
 
 I have experience managing a team:
 - Optimization of processes

@@ -1,4 +1,4 @@
-### Petr Belyakov, Backend Engineer, Moscow.
+### Petr Belyakov, Software Engineer, Moscow.
 
 ![It's me :)](https://kptlr.github.io/img/logo.png)
 

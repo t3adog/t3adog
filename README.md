@@ -1,30 +1,56 @@
-### Hi there 👋, my name is Petr
-![it's me](https://kptlr.github.io/img/logo.png)
+### Привет 👋, меня зовут Петр.
 
-I am system architect in popular Russia telecom company.
+![Это я](https://kptlr.github.io/img/logo.png)
 
-**My Stack:**
+Я бекенд-инженер.
+
+## **Основной стек:**
 - <img src='https://kptlr.github.io/icons/java.svg' alt='Java' height='20'> Java 
 - <img src='https://kptlr.github.io/icons/springio.svg' alt='Spring' height='20'> Spring 
 - <img src='https://kptlr.github.io/icons/mongodb.svg' alt='MongoDB' height='20'> MongoDB
-- <img src='https://kptlr.github.io/icons/kafka.svg' alt='Kafka' height='20'> Kafka / <img src='https://kptlr.github.io/icons/rmq.svg' alt='rmq' height='20'> RabbitMQ
+- <img src='https://kptlr.github.io/icons/kafka.svg' alt='Kafka' height='20'> Kafka 
+- <img src='https://kptlr.github.io/icons/rmq.svg' alt='rmq' height='20'> RabbitMQ
 - <img src='https://kptlr.github.io/icons/docker.svg' alt='Docker' height='20'> Docker 
-- <img src='https://kptlr.github.io/icons/kubernetes-icon.svg' alt='Kubernetes' height='20'> k8s
+- <img src='https://kptlr.github.io/icons/kubernetes-icon.svg' alt='Kubernetes' height='20'> Kubernetes
 - <img src='https://kptlr.github.io/icons/elastic.svg' alt='Elasticsearch' height='20'><img src='https://kptlr.github.io/icons/logstash.svg' alt='Logstash' height='20'><img src='https://kptlr.github.io/icons/kibana.svg' alt='Kibana' height='20'> ELK
 - <img src='https://kptlr.github.io/icons/nginx.svg' alt='Nginx' height='20'> Nginx
 - <img src='https://kptlr.github.io/icons/prometheusio.svg' alt='Prometheus' height='20'> Prometheus
 - <img src='https://kptlr.github.io/icons/gitlab.svg' alt='Gitlab' height='20'> / <img src='https://kptlr.github.io/icons/jenkins.svg' alt='Jenkins' height='20'> DevOps
-- <img src='https://kptlr.github.io/icons/python.svg' alt='Python' height='20'> Python 3
 - <img src='https://kptlr.github.io/icons/linux.svg' alt='Linux' height='15'>❤️ Linux
 
-**About Me:**
-- I'm intrested in:
-  - <img src='https://kptlr.github.io/icons/go.svg' alt='Go' height='20'>
-- I'm in love with technologies
-- My work is my life
-- All my pet projects are bullshit, because all my powers I spend to my eployer projects
-- I think, soft skills are more important than hard skills
-- I'm hardy: Can support four night release per week, with full day load after that (per month of course)
+## **Немного:**
+- <img src='https://kptlr.github.io/icons/python.svg' alt='Python' height='20'> Python 3
+- <img src='https://kptlr.github.io/icons/go.svg' alt='Go' height='20'>
 
-**My socials:** <br>
-[<img src='https://kptlr.github.io/icons/github.svg' alt='github' height='30'>](https://github.com/kptlr) [<img src='https://kptlr.github.io/icons/telegram.svg' alt='telegram' height='30'>](http://t.me/kptlr) [<img src='https://kptlr.github.io/icons/habr.png' alt='habr' height='30'>](https://career.habr.com/kptlr) [<img src='https://kptlr.github.io/icons/linkedin.svg' alt='linkedin' height='30'>](https://www.linkedin.com/in/petrbelyakov/)
+## **Обо мне:**
+
+Являюсь проактивным и инициативным.
+Максимально вовлекаюсь в проекты, в которых участвую.
+
+Не пугает возможность работы с неизвестным стеком технологий. 
+Готов погрузиться, изучить, улучшить.
+
+Считаю своей сильной стороной универсальность: помимо работать с кодом умею и люблю заниматься инфраструктурой.
+
+Помимо разработки и проектирования, могу автоматизировать деплой и выкатку релизов.
+
+Есть опыт управления командой:
+
+- Организация и оптимизация процессов
+- Распределение задач
+- Планирование спринтов
+- Найм (софт-скилы приоритетнее!)
+- Обучение и адаптация сотрудников
+- Поддержание боевого духа
+- Люблю порядок и прозрачность в рабочих процессах.
+
+Отношусь с уважением к правилам и устоям в компании и команде.
+
+Являюсь кроссплатформенным: могу одинаково комфортно и продуктивно работать на любой ОС: Windows, Linux, MacOS (но больше предпочитаю Linux).
+
+В качестве хобби увлекаюсь китайским чаем, технологиями, играми, книгами и фильмами/сериалами.
+
+## **Контакты:**
+- [<img src='https://kptlr.github.io/icons/telegram.svg' alt='telegram' height='30'>](http://t.me/kptlr) Написать
+- [<img src='https://kptlr.github.io/icons/telegram.svg' alt='telegram' height='30'>](https://t.me/pptcz) Почитать 
+- [<img src='https://kptlr.github.io/icons/habr.png' alt='habr' height='30'>](https://career.habr.com/kptlr) CV

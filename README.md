@@ -15,7 +15,7 @@
 - <img src='https://kptlr.github.io/icons/elastic.svg' alt='Elasticsearch' height='20'><img src='https://kptlr.github.io/icons/logstash.svg' alt='Logstash' height='20'><img src='https://kptlr.github.io/icons/kibana.svg' alt='Kibana' height='20'> ELK
 - <img src='https://kptlr.github.io/icons/nginx.svg' alt='Nginx' height='20'> Nginx
 - <img src='https://kptlr.github.io/icons/prometheusio.svg' alt='Prometheus' height='20'> Prometheus
-- <img src='https://kptlr.github.io/icons/gitlab.svg' alt='Gitlab' height='20'> / <img src='https://kptlr.github.io/icons/jenkins.svg' alt='Jenkins' height='20'> DevOps
+- <img src='https://kptlr.github.io/icons/gitlab.svg' alt='Gitlab' height='20'> / <img src='https://kptlr.github.io/icons/jenkins.svg' alt='Jenkins' height='20'> CI/CD
 - <img src='https://kptlr.github.io/icons/linux.svg' alt='Linux' height='15'>❤️ Linux
 
 ## **Немного:**

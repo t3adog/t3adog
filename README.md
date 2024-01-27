@@ -1,9 +1,9 @@
 ### Hi there 👋, my name is Petr
-![it's me](https://kptlr.github.io/img/logo6.png)
+![it's me](https://kptlr.github.io/img/logo.png)
 
 I am system architect in popular Russia telecom company.
 
-**My Main Skills:**
+**My Stack:**
 - <img src='https://kptlr.github.io/icons/java.svg' alt='Java' height='20'> Java 
 - <img src='https://kptlr.github.io/icons/springio.svg' alt='Spring' height='20'> Spring 
 - <img src='https://kptlr.github.io/icons/mongodb.svg' alt='MongoDB' height='20'> MongoDB

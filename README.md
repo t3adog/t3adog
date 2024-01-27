@@ -4,7 +4,7 @@
 
 Я бекенд-инженер.
 
-## **Основной стек:**
+## **Основной стек**
 - <img src='https://kptlr.github.io/icons/java.svg' alt='Java' height='20'> Java 
 - <img src='https://kptlr.github.io/icons/springio.svg' alt='Spring' height='20'> Spring 
 - <img src='https://kptlr.github.io/icons/mongodb.svg' alt='MongoDB' height='20'> MongoDB
@@ -18,11 +18,11 @@
 - <img src='https://kptlr.github.io/icons/gitlab.svg' alt='Gitlab' height='20'> / <img src='https://kptlr.github.io/icons/jenkins.svg' alt='Jenkins' height='20'> CI/CD
 - <img src='https://kptlr.github.io/icons/linux.svg' alt='Linux' height='15'>❤️ Linux
 
-## **Немного:**
+## **Немного**
 - <img src='https://kptlr.github.io/icons/python.svg' alt='Python' height='20'> Python 3
 - <img src='https://kptlr.github.io/icons/go.svg' alt='Go' height='20'>
 
-## **Обо мне:**
+## **Обо мне**
 
 Являюсь проактивным и инициативным.
 Максимально вовлекаюсь в проекты, в которых участвую.
@@ -50,7 +50,9 @@
 
 В качестве хобби увлекаюсь китайским чаем, технологиями, играми, книгами и фильмами/сериалами.
 
-## **Контакты:**
+## **Контакты**
+- [<img src='https://kptlr.github.io/icons/telegram_channel.svg' alt='telegram_channel' height='30'>](https://t.me/pptcz) Почитать 
 - [<img src='https://kptlr.github.io/icons/telegram.svg' alt='telegram' height='30'>](http://t.me/kptlr) Написать
-- [<img src='https://kptlr.github.io/icons/telegram.svg' alt='telegram' height='30'>](https://t.me/pptcz) Почитать 
-- [<img src='https://kptlr.github.io/icons/habr.png' alt='habr' height='30'>](https://career.habr.com/kptlr) CV
+- [<img src='https://kptlr.github.io/icons/cv.svg' alt='cv' height='30'>](https://hh.ru/resume/bc4eeca7ff0c764aa10039ed1f71744a514f45) CV 
+
+

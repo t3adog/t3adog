@@ -18,7 +18,7 @@
 
 ## **Little bit**
 - <img src='https://kptlr.github.io/icons/python.svg' alt='Python' height='20'> Python 3
-- <img src='https://kptlr.github.io/icons/go.svg' alt='Go' height='20'> Go 
+- <img src='https://kptlr.github.io/icons/go.svg' alt='Go' height='20'> Go
 
 ## **About me**
 

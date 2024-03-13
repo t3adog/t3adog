@@ -40,7 +40,7 @@ Love and prefer Linux (I don't use Arch, btw. I'm on <img src='https://kptlr.git
 As a hobby: like of Chinese tea, technology, games, books and movies/TV series.
 
 ## **Contacts**
-- [<img src='https://kptlr.github.io/icons/telegram_channel.svg' alt='telegram_channel' height='30'>](https://t.me/pptcz) [Read](https://t.me/pptcz "My telegram channel")
+- [<img src='https://kptlr.github.io/icons/telegram_channel.svg' alt='telegram_channel' height='30'>](https://t.me/kptlr) [Read](https://t.me/pptcz "My telegram channel")
 - [<img src='https://kptlr.github.io/icons/telegram.svg' alt='telegram' height='30'>](http://t.me/kptlr) [Write](https://t.me/kptlr "My telegram")
 - [<img src='https://kptlr.github.io/icons/cv.svg' alt='cv' height='30'>](https://hh.ru/resume/bc4eeca7ff0c764aa10039ed1f71744a514f45) [Hire](https://hh.ru/resume/bc4eeca7ff0c764aa10039ed1f71744a514f45 "My CV")
 

@@ -24,7 +24,7 @@
 - <img src='https://kptlr.github.io/icons/js.svg' alt='JS' height='20'> JS
 - <img src='https://kptlr.github.io/icons/ts.svg' alt='TS' height='20'> TS
 - <img src='https://kptlr.github.io/icons/nodejs.svg' alt='NodeJS' height='20'> NodeJS
-- <img src='https://kptlr.github.io/icons/nestjs.svg' alt='NodeJS' height='20'> NestJS
+- <img src='https://kptlr.github.io/icons/nestjs.svg' alt='NestJS' height='20'> NestJS
 - And maybe <img src='https://kptlr.github.io/icons/angular.svg' alt='Angular' height='20'> Angular
 
 ## **About me**

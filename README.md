@@ -20,7 +20,7 @@
 - <img src='https://kptlr.github.io/icons/python.svg' alt='Python' height='20'> Python 3
 - <img src='https://kptlr.github.io/icons/go.svg' alt='Go' height='20'> Go
 
-## **I'm intrested in**
+## **I'm diving now**
 - <img src='https://kptlr.github.io/icons/js.svg' alt='JS' height='20'> JS
 - <img src='https://kptlr.github.io/icons/ts.svg' alt='TS' height='20'> TS
 - <img src='https://kptlr.github.io/icons/nodejs.svg' alt='NodeJS' height='20'> NodeJS

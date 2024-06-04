@@ -3,7 +3,7 @@
 ![It's me :)](https://kptlr.github.io/img/logo.png)
 
 ## **My Stack**
-- <img src='https://kptlr.github.io/icons/java.svg' alt='Java' height='20'> Java 
+- <img src='https://t3adog.github.io/icons/java.svg' alt='Java' height='20'> Java 
 - <img src='https://kptlr.github.io/icons/springio.svg' alt='Spring' height='20'> Spring 
 - <img src='https://kptlr.github.io/icons/mongodb.svg' alt='MongoDB' height='20'> MongoDB
 - <img src='https://kptlr.github.io/icons/kafka.svg' alt='Kafka' height='20'> Kafka 

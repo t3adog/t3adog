@@ -14,7 +14,7 @@
 - <img src='https://t3adog.github.io/icons/nginx.svg' alt='Nginx' height='20'> Nginx
 - <img src='https://t3adog.github.io/icons/prometheusio.svg' alt='Prometheus' height='20'> Prometheus
 - <img src='https://t3adog.github.io/icons/gitlab.svg' alt='Gitlab' height='20'> / <img src='https://t3adog.github.io/icons/jenkins.svg' alt='Jenkins' height='20'> CI/CD
-- <img src='https://t3adog.github.io/icons/linux.svg' alt='Linux' height='15'>❤️ Linux
+- <img src='https://t3adog.github.io/icons/linux.svg' alt='Linux' height='15'><img src='https://t3adog.github.io/icons/debian.svg' alt='Debian' height='17'>❤️ Linux
 
 ## **Little bit**
 - <img src='https://t3adog.github.io/icons/python.svg' alt='Python' height='20'> Python 3

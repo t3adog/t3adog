@@ -41,8 +41,6 @@ I have experience managing a team:
 In love with order and transparency in my work processes.
 Respect the rules and principles of the company and the team.
 
-Love and prefer Linux (I don't use Arch, btw. I'm on <img src='https://t3adog.github.io/icons/debian.svg' alt='Debian' height='17'> Debian), but can work on Windows or MacOS.
-
 As a hobby: like of Chinese tea, technology, games, books and movies/TV series.
 
 ## **Contacts**
